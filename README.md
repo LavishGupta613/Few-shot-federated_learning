@@ -20,4 +20,4 @@ To run the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LavishGupta613/Few-Shot-Federated-Learning.git
+   git clone https://github.com/LavishGupta613/Few-Shot-Federated_Learning.git
